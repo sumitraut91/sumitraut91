@@ -1,12 +1,12 @@
 ![logo](https://github.com/sumitraut91/sumitraut91/blob/main/Sumit%20Raut.png)
 <h1 align="center">Hi 👋, I'm Sumit Raut</h1>
-<h3 align="center">Passionate Data Scientist | Machine Learning | AI Enthusiast</h3>
+<h3 align="center">Passionate Data Analytics | Data Scientist | Machine Learning | AI Enthusiast</h3>
 
 <img align="right" alt="AI" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🌱 I’m currently learning **PG Program in Data Science and Artificial Intelligence**
+- 🌱 I’m currently working as**Data Analyst at Dream with Data**
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep learning**
+- 💬 Ask me about **Data Analytics, Data Science, Machine Learning, Deep learning**
 
 - 📫 How to reach me **sumeet.raut91@gmail.com**
 
