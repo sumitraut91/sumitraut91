@@ -1,4 +1,4 @@
-![logo](https://github.com/sumitraut91/sumitraut91/blob/main/Sumit%20Raut.png)
+![logo](https://github.com/sumitraut91/sumitraut91/blob/main/Sumit%20R.png)
 <h1 align="center">Hi 👋, I'm Sumit Raut</h1>
 <h3 align="center">Data Analyst | Data Scientist | Python, SQL, Power BI | Expertise in Data Visualization & EDA | ML & AI Enthusiast</h3>
 
